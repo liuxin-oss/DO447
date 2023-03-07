@@ -1,0 +1,4 @@
+---
+- name: this is a first play
+  debug:
+    msg: "hello world"
